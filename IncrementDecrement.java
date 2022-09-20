@@ -19,4 +19,4 @@ public class IncrementDecrement {
 		System.out.println("result " + result2);
 	}
 
-}
+}// checking status
